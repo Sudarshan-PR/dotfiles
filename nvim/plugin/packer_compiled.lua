@@ -94,6 +94,11 @@ _G.packer_plugins = {
     path = "/Users/4992985/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp",
     url = "https://github.com/hrsh7th/cmp-nvim-lsp"
   },
+  ["formatter.nvim"] = {
+    loaded = true,
+    path = "/Users/4992985/.local/share/nvim/site/pack/packer/start/formatter.nvim",
+    url = "https://github.com/mhartington/formatter.nvim"
+  },
   ["lsp-zero.nvim"] = {
     loaded = true,
     path = "/Users/4992985/.local/share/nvim/site/pack/packer/start/lsp-zero.nvim",
@@ -134,6 +139,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/Users/4992985/.local/share/nvim/site/pack/packer/start/nvim-dap-go",
     url = "https://github.com/leoluz/nvim-dap-go"
+  },
+  ["nvim-dap-ui"] = {
+    loaded = true,
+    path = "/Users/4992985/.local/share/nvim/site/pack/packer/start/nvim-dap-ui",
+    url = "https://github.com/rcarriga/nvim-dap-ui"
   },
   ["nvim-lspconfig"] = {
     loaded = true,
@@ -199,6 +209,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/Users/4992985/.local/share/nvim/site/pack/packer/start/vim-fugitive",
     url = "https://github.com/tpope/vim-fugitive"
+  },
+  ["vim-tmux-navigator"] = {
+    loaded = true,
+    path = "/Users/4992985/.local/share/nvim/site/pack/packer/start/vim-tmux-navigator",
+    url = "https://github.com/christoomey/vim-tmux-navigator"
   },
   ["zen-mode.nvim"] = {
     loaded = true,

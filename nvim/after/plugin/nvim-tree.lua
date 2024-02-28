@@ -49,4 +49,4 @@ end
 vim.api.nvim_create_autocmd({'VimEnter'}, { callback = open_nvim_tree })
 
 vim.keymap.set("n", "<leader>t", vim.cmd.NvimTreeToggle)
-vim.keymap.set("n", "<leader>lt", vim.cmd.NvimTreeFindFile)
+vim.keymap.set("n", "<leader>ft", vim.cmd.NvimTreeFindFile)
